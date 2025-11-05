@@ -1,6 +1,6 @@
 # Application intern de Planification des Visites Médicales – Projet Réel Hébergé en Privé (SQLi) 🔒
 
-> ⚠️ ** Disclaimer **  
+> ⚠️ **Disclaimer**  
 Ce dépôt public a uniquement pour objectif de **présenter le contexte et la description technique** d’un projet interne réalisé durant mon **stage chez SQLI**.  
 Le **code source complet** du projet est **hébergé sur un dépôt GitLab privé** appartenant à SQLI, et **n’est pas publié** ici pour des raisons de **confidentialité**.
 
